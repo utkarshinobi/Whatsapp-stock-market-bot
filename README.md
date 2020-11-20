@@ -18,5 +18,5 @@ All of the following can be attained by the means of whatsapp only, given the co
 <br />
 <br />
 
-
-  
+"Apple" stock details sent to whatsapp group named "Stock market whatsapp bot":
+![DEMO: ](../main/Demo.png)
